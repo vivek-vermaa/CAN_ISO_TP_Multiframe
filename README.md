@@ -1,2 +1,3 @@
-# CAN_ISO_TP
-This is a platform agnostic C library that implements the ISO 15765-2 (also known as ISO-TP) protocol, which runs over a CAN bus
+CAN-ISoTP
+The current version supports only single frame ISO-TP messages. This is fine for OBD-II diagnostic messages, for example, but this library needs some additional work before it can support sending larger messages.
+
