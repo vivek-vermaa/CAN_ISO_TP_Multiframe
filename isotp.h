@@ -1,9 +1,9 @@
 #ifndef __ISOTP_H__
 #define __ISOTP_H__
 
-#include <isotp/isotp_types.h>
-#include <isotp/send.h>
-#include <isotp/receive.h>
+#include "isotp_types.h"
+#include  "send.h"
+#include "receive.h"
 #include <stdint.h>
 #include <stdbool.h>
 #include <stdio.h>

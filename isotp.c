@@ -1,4 +1,4 @@
-#include <isotp/isotp.h>
+#include "isotp.h"
 #include "bitfield.h"
 #include <inttypes.h>
 

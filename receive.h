@@ -1,7 +1,7 @@
 #ifndef __ISOTP_RECEIVE_H__
 #define __ISOTP_RECEIVE_H__
 
-#include <isotp/isotp.h>
+#include "isotp.h"
 #include <stdint.h>
 #include <stdbool.h>
 

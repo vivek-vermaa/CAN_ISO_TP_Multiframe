@@ -1,5 +1,5 @@
-#include <isotp/receive.h>
-#include <isotp/send.h>
+#include "receive.h"
+#include "send.h"
 #include "bitfield.h"
 #include <string.h>
 #include <stdlib.h>
