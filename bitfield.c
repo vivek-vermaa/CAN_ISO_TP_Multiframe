@@ -1,3 +1,13 @@
+/*
+ ============================================================================
+ Name        : bitfield.c
+ Author      : Vivek Verma
+ Version     : 1.0
+ Copyright   : GPL
+ Description : CAN ISO Tp for multiframe
+ ============================================================================
+ */
+
 #include "bitfield.h"
 #include <limits.h>
 #include <string.h>

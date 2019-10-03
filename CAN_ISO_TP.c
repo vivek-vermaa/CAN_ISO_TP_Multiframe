@@ -1,10 +1,10 @@
 /*
  ============================================================================
  Name        : CAN_ISO_TP.c
- Author      : 
+ Author      : Vivek Verma
  Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Copyright   : Published in opensource
+ Description : Driver App for the library
  ============================================================================
  */
 
